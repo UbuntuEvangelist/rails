@@ -4680,12 +4680,12 @@ socket.io-client@2.1.1:
     object-component "0.0.3"
     parseqs "0.0.5"
     parseuri "0.0.5"
-    socket.io-parser "~3.2.0"
+    socket.io-parser "~3.3.2"
     to-array "0.1.4"
 
-socket.io-parser@~3.2.0:
+socket.io-parser@~3.3.2:
   version "3.2.0"
-  resolved "https://registry.yarnpkg.com/socket.io-parser/-/socket.io-parser-3.2.0.tgz#e7c6228b6aa1f814e6148aea325b51aa9499e077"
+  resolved "https://registry.yarnpkg.com/socket.io-parser/-/socket.io-parser-3.3.2.tgz#e7c6228b6aa1f814e6148aea325b51aa9499e077"
   integrity sha512-FYiBx7rc/KORMJlgsXysflWx/RIvtqZbyGLlHZvjfmPTPeuD/I8MaW7cfFrj5tRltICJdgwflhfZ3NVVbVLFQA==
   dependencies:
     component-emitter "1.2.1"
@@ -4702,7 +4702,7 @@ socket.io@2.1.1:
     has-binary2 "~1.0.2"
     socket.io-adapter "~1.1.0"
     socket.io-client "2.1.1"
-    socket.io-parser "~3.2.0"
+    socket.io-parser "~3.3.2"
 
 source-list-map@^2.0.0:
   version "2.0.1"
