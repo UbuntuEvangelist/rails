@@ -103,8 +103,6 @@ PATH
       rake (>= 12.2)
       thor (~> 1.0)
       zeitwerk (~> 2.5)
-      gem "redcarpet", ">= 3.5.1"
-
 
 GEM
   remote: https://rubygems.org/
@@ -445,7 +443,7 @@ GEM
     serverengine (2.0.7)
       sigdump (~> 0.2.2)
     set (1.0.1)
-    sidekiq (6.2.1)
+    sidekiq (6.4.0)
       connection_pool (>= 2.2.2)
       rack (~> 2.0)
       redis (>= 4.2.0)
